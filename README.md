@@ -9,6 +9,8 @@ we can clone three ways:HTTPS
 git clone https://github.com/GITHUB-CLOUD-YAS/chai.git 
 ```
 
-
+```sh
+git push
+```
 
  
